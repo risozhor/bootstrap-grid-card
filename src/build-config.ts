@@ -22,7 +22,6 @@ export default (config: BootstrapGridCardConfig): BuiltCardConfig => {
       padding-right: ${hass_style_gutter_size} !important;
       padding-left: ${hass_style_gutter_size} !important;
     }
-    .fullheight {min-height: calc(100vh - var(--header-height));}
     `;
   }
 
