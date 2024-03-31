@@ -1,8 +1,8 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
-[![Stable](https://img.shields.io/github/release/idittansikte/bootstrap-grid-card.svg)](https://github.com/idittansikte/bootstrap-grid-card/releases/latest)
+[![Stable](https://img.shields.io/github/release/risozhor/bootstrap-grid-card.svg)](https://github.com/risozhor/bootstrap-grid-card/releases/latest)
 [![Community Forum](https://img.shields.io/badge/community-forum-brightgreen.svg)](https://community.home-assistant.io/t/lovelace-bootstrap-grid-card/274738)
 
-bootstrap-grid-card
+bootstrap-grid-card (with custom styles)
 ===================
 
 Are you looking for a way to get control over your lovelace layout on all your platforms with a
